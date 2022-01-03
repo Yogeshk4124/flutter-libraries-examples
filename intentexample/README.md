@@ -1,16 +1,12 @@
-# intentexample
+# Share Intent example
 
-A new Flutter project.
+Share any type of file between apps
 
-## Getting Started
+## Dependencies
 
-This project is a starting point for a Flutter application.
+- file_picker: ^3.0.1
+- share_plus: ^3.0.4
 
-A few resources to get you started if this is your first Flutter project:
+## Facing Any Problem or need any Help:grey_question:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Incase you face any problem or need any help write me in [issues](https://github.com/Yogeshk4124/flutter-libraries-examples/issues) section.
